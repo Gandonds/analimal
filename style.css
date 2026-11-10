@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    transition: transform 3.5s ease;
+    object-fit: cover;
+}
+
+img:hover{
+transform: translateX(1170px);
+}
